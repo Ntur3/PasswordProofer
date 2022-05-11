@@ -1,6 +1,5 @@
 //Nolan Turin
 //11/19/20
-//CS300
 //This program will ask the user to enter the password that meets
 //the criteria given below. If it does not the program will
 //tell the user there is a error in the criteria. 
